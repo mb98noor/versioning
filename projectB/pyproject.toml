@@ -15,7 +15,8 @@ dependencies = []
 
 [tool.semantic_release]
 # مسیر فایل version برای semantic-release
-version_source = "pyproject"  # semantic-release از فیلد version این فایل استفاده می‌کند
+version_source = "file"
+version_file = "../../Version"
 
 [tool.semantic_release.commit_analyzer]
 # قواعد commit convention برای semantic-release
