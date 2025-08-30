@@ -1,0 +1,6 @@
+README.md
+setup.py
+versioning_package.egg-info/PKG-INFO
+versioning_package.egg-info/SOURCES.txt
+versioning_package.egg-info/dependency_links.txt
+versioning_package.egg-info/top_level.txt
