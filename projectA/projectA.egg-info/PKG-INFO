@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: projectA
+Version: 0.0.2
+Summary: Project A managed by semantic-release
+Dynamic: summary
