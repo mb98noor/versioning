@@ -1,10 +1,10 @@
+
 [build-system]
 requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
 name = "projectA"
-version = "0.0.1"
 description = "A small Python test project for semantic-release"
 authors = [
     { name = "mnoor", email = "mb98.noor@gmail.com" }
@@ -14,13 +14,5 @@ requires-python = ">=3.8"
 dependencies = []
 
 [tool.semantic_release]
-# مسیر فایل version برای semantic-release
-version_source = "file"
-version_file = "../../Version"
-
-[tool.semantic_release.commit_analyzer]
-# قواعد commit convention برای semantic-release
-analyzer = "semantic-release"
-
-[tool.semantic_release.version_bumper]
-bump = "patch"  # نوع نسخه‌بندی پیش‌فرض (major, minor, patch)
+version_source = "tag"
+upload_to_pypi = false
