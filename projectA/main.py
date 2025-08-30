@@ -1,1 +1,1 @@
-return "Hello from Project A! with commit1"'
+return "Hello from Project A! with commitnew"'
