@@ -1,1 +1,1 @@
-return "Hello from Project B! after change"'
+return "Hello from Project B! after change "'
