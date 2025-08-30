@@ -1,6 +1,0 @@
-main.py
-setup.py
-projectB.egg-info/PKG-INFO
-projectB.egg-info/SOURCES.txt
-projectB.egg-info/dependency_links.txt
-projectB.egg-info/top_level.txt

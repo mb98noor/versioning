@@ -7,3 +7,4 @@ build-backend = "setuptools.build_meta"
 version_source = "file"
 version_file = "Version"
 upload_to_pypi = false
+upload_to_release = false

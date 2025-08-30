@@ -1,1 +1,0 @@
-return "Hello from Project A! with commitnew "'
